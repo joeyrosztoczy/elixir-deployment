@@ -1,2 +1,2 @@
-# The Release
+# The Erlang Release: Distillery
 
