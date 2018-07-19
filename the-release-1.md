@@ -20,7 +20,7 @@ Why do we need a release? There are quite a variety of reasons:
 
 Not a BEAM or Erlang expert? Me either. Even if I was, I wouldn't want to spend all day building releases from scratch. But don't worry, the awesome Elixir community has your back. Creating releases is drastically simplified in Elixir, thanks to Bitwalker's library [Distillery](https://github.com/bitwalker/distillery).
 
-In the Releases with Distillery Guide, we'll walk through getting up and running with Distillery, configuring your application for release, advanced configuration options, and how to hot-swap code in a live deployment.
+In the Releases with Distillery Guide, we'll walk through getting up and running with Distillery, configuring your application for release, and advanced configuration options. 
 
 Section Objectives:
 
